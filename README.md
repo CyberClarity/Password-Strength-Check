@@ -15,5 +15,5 @@ This repository contains a Python script that evaluates the strength of password
 
 ## How to Run
 ```bash
-python password_checker.py
+python3 password_checker.py
 ```
