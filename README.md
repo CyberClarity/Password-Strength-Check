@@ -6,8 +6,7 @@ This repository contains a Python script that evaluates the strength of password
 ## Files
 - `password_checker.py` — Python script to analyze password strength.
 - `report.md` — Summary of findings.
-- `screenshots/` — Folder for screenshots of the tool in action.
-
+  
 ## What I Did
 - Built a custom password checker in Python.
 - Tested multiple passwords of varying complexity.
